@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Author
 
-- [YOUR_NAME](https://github.com/YOUR_USERNAME) - Initial work
+- [Avinash Ranjan](https://github.com/YOUR_USERNAME) - Initial work
 
 ## Acknowledgments
 
