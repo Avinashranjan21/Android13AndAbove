@@ -1,4 +1,4 @@
-package com.example.android13andabove.ui.theme
+package com.example.android13andabove.home_screen.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

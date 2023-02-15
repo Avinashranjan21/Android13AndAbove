@@ -1,4 +1,4 @@
-package com.example.android13andabove.ui.theme
+package com.example.android13andabove.home_screen.theme
 
 import android.app.Activity
 import android.os.Build
